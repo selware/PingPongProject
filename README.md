@@ -1,5 +1,9 @@
 # PingPongProject
 
+## Misc 
+[Link to the game protocol](https://gitlab.lrz.de/LKN_IK_Games/GameProtocol/blob/master/lobby/README.md)
+`
+
 ## Basic Git Commands
 
 `git clone *link_of_the_repository*`
