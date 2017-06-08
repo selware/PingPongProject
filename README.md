@@ -4,13 +4,13 @@
 
 `git clone *link_of_the_repository*`
 
-This will create the directory VHDL, in which you will find our files.
+This will create the directory PingPongProject, in which you will find our files.
 
 
 
 `git branch` 
 
-Lists the locally available branches. E.g. tima
+Lists the locally available branches. E.g. selver
 
 
 
@@ -46,5 +46,5 @@ Stages the specified file for a commit. You can see the files that will be commi
 
 `git commit -m "*Commit_message*"`
 
-Commits your edited files, that have been staged for the commit.
+Commits your changes that have been staged for the commit.
 Changes are only recorded locally.
