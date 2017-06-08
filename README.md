@@ -14,7 +14,7 @@ This will create the directory PingPongProject, in which you will find our files
 
 `git branch` 
 
-Lists the locally available branches. E.g. temp
+Lists the locally available branches. E.g. selver
 
 
 
