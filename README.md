@@ -26,7 +26,7 @@ Creates a branch with the specified name. This command is **only** for creating 
 
 
 
-`git branch checkout *name_of_branch*` 
+`git checkout *name_of_branch*` 
 
 Lets you switch to the spcified branch.
 
