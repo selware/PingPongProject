@@ -48,7 +48,12 @@ Stages the specified file for a commit. You can see the files that will be commi
 
 
 
-`git commit -m "*Commit_message*"`
+`git commit -m *commit_message*`
 
 Commits your changes that have been staged for the commit.
 Changes are only recorded locally.
+
+`git rebase -i *branch_name*`
+
+Takes the commits from "*branch_name*" and applies them to the currently active branch. Typically used to pull in latestest changes from master e.g. `git rebase -i origin/master`
+
